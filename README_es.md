@@ -25,9 +25,9 @@ Esta es una página web creada por mi, que supuestamente es una red social donde
 4. Y ahora puedes publicar, ver publicaciones, editar y eliminar tus publicaciones.
 
 # Aquí está la estructura básica de los archivos:
-`index.html`: Contiene la estructura HTML.
-`style.css`: Define los estilos del directorio.
-`main.js`: Archivo “.js” donde está el programa principal.
+- `index.html`: Contiene la estructura HTML.
+- `style.css`: Define los estilos del directorio.
+- `main.js`: Archivo “.js” donde está el programa principal.
 
 # Contribuciones:
 Las contribuciones son bienvenidas. No dudes en abrir una incidencia o enviar una solicitud de extracción en el repositorio.
