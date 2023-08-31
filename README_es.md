@@ -1,6 +1,6 @@
-[Inglés](https://github.com/ericsaza/pulse-post-app/edit/main/README.md) / Español
+[Inglés](https://github.com/ericsaza/pulse-post-app/blob/main/README.md) / Español
 
-#PulsePost
+# PulsePost
 Esta es una página web creada por mi, que supuestamente es una red social donde todos podrán crear publicaciones, eliminarlas y editarlas (Lo que viene siendo un CRUD en Firebase).
 
 # Atributos:
