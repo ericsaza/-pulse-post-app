@@ -24,9 +24,9 @@ This is a web page created by me, which is supposedly a social network where eve
 4. And now you can post, view posts, edit and delete your posts.
 
 # Here is the basic structure of the files:
-`index.html`: Contains the HTML structure.
-`style.css`: Defines the styles of the directory.
-`main.js`:  File ".js" where the main program is.
+- `index.html`: Contains the HTML structure.
+- `style.css`: Defines the styles of the directory.
+- `main.js`:  File ".js" where the main program is.
 
 # Contributions:
 Contributions are welcome. Feel free to open an issue or submit a pull request in the repository.
