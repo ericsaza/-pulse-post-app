@@ -1,5 +1,6 @@
 English / [Spanish](https://github.com/ericsaza/pulse-post-app/blob/main/README_es.md)
 # PulsePost
+This is a web page created by me, which is supposedly a social network where everyone can create posts, delete them and edit them (which is a CRUD in Firebase).
 
 # Attributes:
 - Intuitive and easy to use user interface.
